@@ -1,0 +1,4 @@
+﻿*.swp
+*.swo
+app.json
+config/board.json
